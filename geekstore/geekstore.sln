@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geekstore-tests", "geekstore-tests\geekstore-tests.csproj", "{04501E53-608A-4A53-B9E9-BC20CD3A2EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geekstore", "geekstore\geekstore.csproj", "{DA412552-C196-4957-94C6-08D0E872ACDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04501E53-608A-4A53-B9E9-BC20CD3A2EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04501E53-608A-4A53-B9E9-BC20CD3A2EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04501E53-608A-4A53-B9E9-BC20CD3A2EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04501E53-608A-4A53-B9E9-BC20CD3A2EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA412552-C196-4957-94C6-08D0E872ACDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA412552-C196-4957-94C6-08D0E872ACDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA412552-C196-4957-94C6-08D0E872ACDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA412552-C196-4957-94C6-08D0E872ACDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFBD9D97-5829-4FC5-A3B2-0CC1D866F2D2}
+	EndGlobalSection
+EndGlobal

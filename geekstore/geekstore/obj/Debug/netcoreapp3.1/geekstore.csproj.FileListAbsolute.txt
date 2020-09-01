@@ -1,0 +1,8 @@
+C:\GitHub\loja-geekstore\geekstore\geekstore\bin\Debug\netcoreapp3.1\geekstore.deps.json
+C:\GitHub\loja-geekstore\geekstore\geekstore\bin\Debug\netcoreapp3.1\geekstore.dll
+C:\GitHub\loja-geekstore\geekstore\geekstore\bin\Debug\netcoreapp3.1\geekstore.pdb
+C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.csprojAssemblyReference.cache
+C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.AssemblyInfoInputs.cache
+C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.AssemblyInfo.cs
+C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.dll
+C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.pdb

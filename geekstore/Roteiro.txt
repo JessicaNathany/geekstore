@@ -1,0 +1,6 @@
+#Cliente
+
+	- Um cliente só pode comprar um produto se o produto estiver ativo *ok
+	- Um cliente só poderá fazer compras se estiver ativo na plataforma *ok
+	- Um cliente não pode efetuar uma compra com um produto valor menor ou igual zero *ok
+	
