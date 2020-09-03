@@ -1,17 +1,23 @@
-﻿using System;
+﻿using geekstore.Core;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace geekstore.Model
 {
-    public class Pedido
+    public class Pedido : Entity
     {
-        public int Id { get; set; }
+        public DateTime Data { get; private set; }
 
-        public DateTime Data { get; set; }
+        public int IdCliente { get; private set; }
 
-        public int IdCliente { get; set; }
+        public List<Produto> Produtos { get; private set; }
 
-        public List<Produto> Produtos { get; set; }
+        public Pedido(int id, DateTime data, int idCliente)
+        {
+            Id = id;
+            Data = data;
+            IdCliente = idCliente;
+        }
     }
 }

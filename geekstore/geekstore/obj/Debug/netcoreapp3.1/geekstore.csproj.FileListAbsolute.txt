@@ -6,3 +6,11 @@ C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.A
 C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.AssemblyInfo.cs
 C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.dll
 C:\GitHub\loja-geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.pdb
+D:\Livre\geekstore\geekstore\geekstore\bin\Debug\netcoreapp3.1\geekstore.deps.json
+D:\Livre\geekstore\geekstore\geekstore\bin\Debug\netcoreapp3.1\geekstore.dll
+D:\Livre\geekstore\geekstore\geekstore\bin\Debug\netcoreapp3.1\geekstore.pdb
+D:\Livre\geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.csprojAssemblyReference.cache
+D:\Livre\geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.AssemblyInfoInputs.cache
+D:\Livre\geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.AssemblyInfo.cs
+D:\Livre\geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.dll
+D:\Livre\geekstore\geekstore\geekstore\obj\Debug\netcoreapp3.1\geekstore.pdb

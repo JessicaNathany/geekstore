@@ -12,22 +12,9 @@ namespace geekstore_tests
         [Trait("Categoria", "Compras")]
         public void Cliente_Comprar_ComprarProdutosInativos()
         {
-            var cliente = new Cliente()
-            {
-                Id = 1,
-                Ativo = true,
-                Email = "fulano@teste",
-                Nome = "Fulano"
-            };
+            var cliente = new Cliente(1, "Fulano", "fulano@teste.com", true);
 
-            var produto = new Produto()
-            {
-                Id = 1,
-                Ativo = false,
-                Nome = "Bola",
-                Valor = 50m,
-                Descricao = "Bola de futebol Nike"
-            };
+            var produto = new Produto(1, "Bola", "Bola de Futebol", false, 50m);
 
             var clienteService= new ClienteService();
 
@@ -46,22 +33,9 @@ namespace geekstore_tests
         public void Cliente_Comprar_ClienteInativo()
         {
             // Arrange
-            var cliente = new Cliente()
-            {
-                Id = 1,
-                Ativo = false,
-                Email = "fulano@teste",
-                Nome = "Fulano"
-            };
+            var cliente = new Cliente(1, "Fulano", "fulano@teste.com", false);
 
-            var produto = new Produto()
-            {
-                Id = 1,
-                Ativo = true,
-                Nome = "Bola",
-                Valor = 50m,
-                Descricao = "Bola de futebol Nike"
-            };
+            var produto = new Produto(1, "Bola", "Bola de Futebol", true, 50m);
 
             var clienteService = new ClienteService();
 
@@ -78,22 +52,9 @@ namespace geekstore_tests
         public void Cliente_Comprar_ProdutoMenorOuIguaZero()
         {
             // Arrange
-            var cliente = new Cliente()
-            {
-                Id = 1,
-                Ativo = true,
-                Email = "fulano@teste",
-                Nome = "Fulano"
-            };
+            var cliente = new Cliente(1, "Fulano", "fulano@teste.com", true);
 
-            var produto = new Produto()
-            {
-                Id = 1,
-                Ativo = true,
-                Nome = "Bola",
-                Valor = 0,
-                Descricao = "Bola de futebol Nike"
-            };
+            var produto = new Produto(1, "Bola", "Bola de Futebol", true, 0m);
 
             var clienteService = new ClienteService();
 
