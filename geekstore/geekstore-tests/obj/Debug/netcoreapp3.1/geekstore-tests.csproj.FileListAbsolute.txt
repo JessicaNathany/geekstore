@@ -194,3 +194,4 @@ D:\Livre\geekstore\geekstore\geekstore-tests\bin\Debug\netcoreapp3.1\zh-Hant\Mic
 D:\Livre\geekstore\geekstore\geekstore-tests\bin\Debug\netcoreapp3.1\geekstore.dll
 D:\Livre\geekstore\geekstore\geekstore-tests\bin\Debug\netcoreapp3.1\geekstore.pdb
 D:\Livre\geekstore\geekstore\geekstore-tests\obj\Debug\netcoreapp3.1\geekstore-tests.csproj.CopyComplete
+D:\Livre\geekstore\geekstore\geekstore-tests\bin\Debug\netcoreapp3.1\FluentValidation.dll
